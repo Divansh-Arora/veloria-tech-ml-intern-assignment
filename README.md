@@ -197,6 +197,16 @@ python rag_search.py
 
 ---
 
+## Model Output
+
+![Model Output](screenshots/model_output.png)
+
+## Semantic Search Output
+
+![RAG Output](screenshots/rag_output.png)
+
+---
+
 ## Author
 
 Divansh Arora
